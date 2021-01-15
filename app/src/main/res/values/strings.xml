@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Firebase Social</string>
+    <string name="facebook_app_id">870631680002969</string>
+    <string name="fb_login_protocol_scheme">fb870631680002969</string>
+    <string name="facebook_application_id" translatable="false">870631680002969</string>
+    <!-- Facebook Application ID, prefixed by 'fb'. Enables Chrome Custom tabs. -->
+    <string name="facebook_login_protocol_scheme" translatable="false">fb870631680002969</string>
+
+</resources>
